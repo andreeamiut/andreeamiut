@@ -50,6 +50,7 @@ JMeter • k6 • Allure Reports • Xray
 |------------|-------------|
 | [serenity-bdd-test](https://github.com/andreeamiut/serenity-bdd-test) | BDD automation framework with Serenity + Java |
 | [restAssuredPOC](https://github.com/andreeamiut/restAssuredPOC) | API testing framework with REST Assured |
+| [qualityGatePoc](https://github.com/andreeamiut/qualityGatePoc) | CI/CD quality gate implementation proof of concept |
 | [poc_python](https://github.com/andreeamiut/poc_python) | Python test automation examples |
 
 ---
