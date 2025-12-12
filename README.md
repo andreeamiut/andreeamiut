@@ -9,7 +9,7 @@ I design scalable test automation frameworks and QA strategies that deliver meas
 ## 🎯 Results I've Delivered
 
 - **50% faster regression cycles** – Architected Selenium 4 + Cucumber BDD framework for banking domain
-- **60% fewer API defects** – Systematic early validation protocols for IoT platform (50+ enterprise customers)
+- **60% fewer API defects** – Systematic early validation protocols for IoT platform
 - **35% faster quality feedback** – CI/CD pipeline automation with quality gates
 
 ---
